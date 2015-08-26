@@ -1,2 +1,2 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **My name is Shirley Jin. I am from China.**
+This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **My name is Shirley Jin. I am from China. My Chinese name spelled as Xuan Jin. I am double majored in Management Information System and Accounting, I also have a minor in computer science. I like programming, even though I am not quite good at it yet, but I think I am getting there. **
